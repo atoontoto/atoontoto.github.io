@@ -1,2 +1,2 @@
 # atoontoto.github.io
-Blog for Infosec and writeups 
+Blog for writeups and infosec
